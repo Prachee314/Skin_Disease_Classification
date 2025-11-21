@@ -1,4 +1,4 @@
-#📌 Skin Disease Classification Using Transfer learning
+# Skin Disease Classification Using Transfer learning
 This project implements a multi-class skin lesion classification system using the HAM10000 dermatology dataset, leveraging transfer learning, fine-tuning, and model interpretability techniques.
 Multiple pretrained CNN architectures were trained, fine-tuned, evaluated, and compared to identify the most effective model for dermatology image classification.
 
