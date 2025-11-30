@@ -98,6 +98,11 @@ Grad-CAM was used to visualize class-discriminative regions in lesion images.
 
 ```bash
 pip install -r requirements.txt
+```
+### **2. Download the dataset from Kaggle**
+Download the HAM10000 dataset
 
-### 2. Download the dataset from Kaggle
-
+### **3. Run the notebook**
+```bash
+jupyter notebook skin_disease_classification.ipynb
+```
